@@ -15,3 +15,7 @@ git checkout Branca1
 gedit taula.txt
 git add .
 git commit -m "Natàlia Cortés: Branca1 C1"
+git log --oneline --all
+gedit taula.txt
+git add . 
+git commit -m "Na
